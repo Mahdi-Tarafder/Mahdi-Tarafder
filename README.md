@@ -5,7 +5,7 @@ Hi, I'm Mahdi! I’m a [technical support specialist](#) passionate about IT, ne
 
 - 🌱 Currently Learning: [CompTIA A+, Windows Server, ITIL etc.]
 - 💼 Looking for Opportunities in:** [Technical Support, Helpdesk, Network Support etc.]
-- 📫 Contact Me:** [mahdi.tarafder.ca@gmail.com]
+- 📫 Contact Me: [mahdi.tarafder.ca@gmail.com]
 
 # Skills
 - Networking (CCNA)

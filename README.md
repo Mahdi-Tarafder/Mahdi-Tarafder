@@ -13,7 +13,7 @@ Hi, I'm Mahdi! I’m a [technical support specialist](#) passionate about IT, ne
 - Troubleshooting
 
 # Featured Projects
-- [Project 1: Network Setup](#) – Brief description.
+- [Project 1: Network And Domain Setup](#) – Brief description.
 - [Project 2: IT Support Tool](#) – Brief description.
 
 # Let's Connect!

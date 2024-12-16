@@ -57,5 +57,5 @@ When I’m not troubleshooting networks or automating workflows, I’m exploring
 ---
 
 # GitHub Stats  
-![Mahdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubhandle&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubhandle&layout=compact&theme=radical)  
+![Mahdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahdi-Tarafder&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi-Tarafder&layout=compact&theme=radical)  

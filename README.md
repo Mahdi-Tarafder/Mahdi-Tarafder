@@ -3,7 +3,7 @@
 ---
 
 # About Me  
-Hi, I'm **Mahdi**! I’m a **Technical Support Specialist** with a passion for **IT, networking, and delivering exceptional customer experiences**. I thrive on solving challenges, learning new technologies, and empowering businesses with efficient IT solutions. Currently, I’m diving deeper into **cloud technologies, Python, Cisco, Windows Server, Linux**, and more.  
+Hi, I'm **Mahdi**! I’m a **Technical Support Specialist** with a passion for **IT, networking, and delivering exceptional customer experiences**. I thrive on solving challenges, learning new technologies, and empowering businesses with efficient IT solutions. Currently, I’m diving deeper into **Cloud Technologies, Python, Cisco, Windows Server, Linux**, and more.  
 
 - 🌱 **Currently Learning:**  
   - **Certifications:** CompTIA A+, ITIL Foundation  

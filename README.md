@@ -17,5 +17,5 @@ Hi, I'm Mahdi! I’m a [technical support specialist](#) passionate about IT, ne
 - [Project 2: IT Support Tool](#) – Brief description.
 
 ## Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/Mahdi=Tarafder/)
-- [Twitter](https://twitter.com/your-handle)
+- [LinkedIn](https://www.linkedin.com/in/Mahdi-Tarafder/)
+- [Twitter](https://x.com/MahdiHassa73606)

@@ -1,35 +1,48 @@
-#### 🌐 Bridging Technology and Possibility — Explore My IT Journey!  
+#### 🚀 Welcome to the Hub of Tech Excellence!  
 
 ---
 
 # About Me  
-Hi, I'm **Mahdi**! I’m a **Technical Support Specialist** with a passion for **IT, networking, and delivering top-notch customer service**. I’m dedicated to staying ahead in the tech world and am actively expanding my expertise in **cloud technologies, Python, Cisco, Windows Server, Linux**, and more.  
+Hi, I'm **Mahdi**! I’m a **Technical Support Specialist** with a passion for **IT, networking, and delivering exceptional customer experiences**. I thrive on solving challenges, learning new technologies, and empowering businesses with efficient IT solutions. Currently, I’m diving deeper into **cloud technologies, Python, Cisco, Windows Server, Linux**, and more.  
 
-- 🌱 **Currently Learning:** CompTIA A+, ITIL, Windows Server Administration, and advanced networking concepts.  
-- 💼 **Actively Seeking Opportunities In:** Technical Support, Helpdesk, Network Support, and IT Operations.  
+- 🌱 **Currently Learning:**  
+  - **Certifications:** CompTIA A+, ITIL Foundation  
+  - **Technologies:** Windows Server Administration, Python for automation, and advanced networking concepts  
+- 💼 **Seeking Opportunities In:** Technical Support, Helpdesk, Network Support, and IT Operations  
 - 📫 **Reach Me At:** [mahdi.tarafder.ca@gmail.com](mailto:mahdi.tarafder.ca@gmail.com)  
 - 🌍 **Open to Relocation:** Yes  
 
 ---
 
 # Skills & Certifications  
-- **Networking:** CCNA Certified, Network Troubleshooting & Security  
-- **IT Support:** Windows OS, Active Directory, Microsoft 365, Linux Administration  
-- **Problem Solving:** Expertise in diagnosing and resolving system and network issues  
-- **Automation & Scripting:** Python basics for automation and system tasks  
-- **Customer Service:** Over a year of experience delivering seamless technical support  
+- **Networking:**  
+  - CCNA Certified  
+  - Expertise in Network Troubleshooting, Security, and Configuration  
+- **IT Support & Administration:**  
+  - Windows OS, Microsoft 365, Active Directory  
+  - Linux Administration & Command-Line Proficiency  
+- **Problem Solving & Troubleshooting:**  
+  - Diagnosing and resolving complex system and network issues  
+- **Automation & Scripting:**  
+  - Python for task automation and system management  
+- **Customer Service:**  
+  - Over a year of experience delivering personalized, seamless support  
 
 ---
 
 # What I’m Working On  
-- Building my knowledge of **cloud platforms** like AWS and Azure  
-- Gaining certifications like **CompTIA A+** and **ITIL Foundation**  
-- Exploring **Python** to automate IT processes  
+- **Expanding Cloud Expertise:** Exploring platforms like AWS and Azure  
+- **Certification Journey:**  
+  - Preparing for **CompTIA A+** and **ITIL Foundation**  
+  - Planning to pursue **Microsoft Azure Fundamentals**  
+- **Tech Projects:**  
+  - Building Python scripts to automate IT processes  
+  - Experimenting with network simulation tools like Cisco Packet Tracer  
 
 ---
 
-# Let’s Collaborate!  
-Whether you're working on an exciting project or have opportunities in the IT field, I’d love to connect. Let’s grow and learn together!  
+# Let’s Connect & Collaborate!  
+Do you have an exciting project, or are you seeking a tech enthusiast to help solve IT challenges? Let’s connect and build something impactful together!  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Mahdi-Tarafder/)  
 [![X (Twitter)](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MahdiHassa73606)  
@@ -39,4 +52,10 @@ Whether you're working on an exciting project or have opportunities in the IT fi
 ---
 
 # Fun Fact  
-When I'm not fixing networks or automating tasks, you'll find me exploring tech communities or diving into the latest in cloud computing trends!  
+When I’m not troubleshooting networks or automating workflows, I’m exploring tech communities, studying cutting-edge cloud innovations, or planning my next certification milestone!  
+
+---
+
+# GitHub Stats  
+![Mahdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubhandle&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubhandle&layout=compact&theme=radical)  

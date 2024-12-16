@@ -18,4 +18,4 @@ Hi, I'm Mahdi! I’m a [technical support specialist](#) passionate about IT, ne
 
 # Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/Mahdi-Tarafder/)
-- [X](https://x.com/MahdiHassa73606)
+- [Twitter or X](https://x.com/MahdiHassa73606)

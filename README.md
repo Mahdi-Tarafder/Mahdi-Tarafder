@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile 👋
 
 ## About Me
-Hi, I'm Mahdi! I’m a [technical support specialist](#) passionate about IT, networking, and providing excellent customer service. I’m currently working on building my skills in [your current goals, e.g., cloud technologies or Python].
+Hi, I'm Mahdi! I’m a [technical support specialist](#) passionate about IT, networking, and providing excellent customer service. I’m currently working on building my skills in [cloud technologies,Python, Cisco, Windows Server, Linux etc.].
 
 - 🌱 **Currently Learning:** [CompTIA A+, Windows Server, ITIL etc.]
 - 💼 **Looking for Opportunities in:** [Technical Support, Helpdesk, Network Support etc.]

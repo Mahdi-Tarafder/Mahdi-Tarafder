@@ -3,14 +3,15 @@
 ---
 
 # About Me  
-Hi, I'm **Mahdi**! I’m a **Technical Support Specialist** with a passion for **IT, networking, and delivering exceptional customer experiences**. I thrive on solving challenges, learning new technologies, and empowering businesses with efficient IT solutions. Currently, I’m diving deeper into **Cloud Technologies, Python, Cisco, Windows Server, Linux**, and more.  
+Hi, I'm **Mahdi**! I’m a **Technical Support Specialist** with a passion for **IT, networking, security, and delivering exceptional customer experiences**. I thrive on solving challenges, learning new technologies, and empowering businesses with efficient IT solutions. Currently, I’m diving deeper into **Cloud Technologies, Cybersecurity, Python, Cisco, Windows Server, Linux**, and more.  
 
 - 🌱 **Currently Learning:**  
   - **Certifications:** CompTIA A+, ITIL Foundation  
-  - **Technologies:** Windows Server Administration, Python for automation, and advanced networking concepts  
-- 💼 **Seeking Opportunities In:** Technical Support, Helpdesk, Network Support, and IT Operations  
+  - **Technologies:** Windows Server Administration, Python for automation, cybersecurity fundamentals, and advanced networking concepts  
+- 💼 **Seeking Opportunities In:** Technical Support, Helpdesk, Network Support, IT Operations, and Cybersecurity  
 - 📫 **Reach Me At:** [mahdi.tarafder.ca@gmail.com](mailto:mahdi.tarafder.ca@gmail.com)  
 - 🌍 **Open to Relocation:** Yes  
+ 
 
 ---
 
@@ -21,8 +22,10 @@ Hi, I'm **Mahdi**! I’m a **Technical Support Specialist** with a passion for *
 - **IT Support & Administration:**  
   - Windows OS, Microsoft 365, Active Directory  
   - Linux Administration & Command-Line Proficiency  
+- **Cybersecurity:**  
+  - Strong interest in network security, vulnerability assessments, and basic incident response  
 - **Problem Solving & Troubleshooting:**  
-  - Diagnosing and resolving complex system and network issues  
+  - Diagnosing and resolving complex system, network, and security issues  
 - **Automation & Scripting:**  
   - Python for task automation and system management  
 - **Customer Service:**  
@@ -31,14 +34,14 @@ Hi, I'm **Mahdi**! I’m a **Technical Support Specialist** with a passion for *
 ---
 
 # What I’m Working On  
-- **Expanding Cloud Expertise:** Exploring platforms like AWS and Azure  
+- **Expanding Cloud & Security Expertise:** Exploring platforms like AWS, Azure, and basic penetration testing tools  
 - **Certification Journey:**  
-  - Preparing for **CompTIA A+** and **ITIL Foundation**  
+  - Preparing for **CompTIA A+**, **ITIL Foundation**, and **CompTIA Security+**  
   - Planning to pursue **Microsoft Azure Fundamentals**  
 - **Tech Projects:**  
   - Building Python scripts to automate IT processes  
   - Experimenting with network simulation tools like Cisco Packet Tracer  
-
+  - Exploring cybersecurity tools like Wireshark and Nmap  
 ---
 
 # Let’s Connect & Collaborate!  
